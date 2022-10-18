@@ -1,0 +1,10 @@
+dataprep==0.4.5
+matplotlib==3.5.3
+numpy==1.22.4
+pandas==1.4.4
+pandas_profiling==3.3.0
+scikit_learn==1.1.2
+seaborn==0.11.0
+streamlit==1.12.2
+sweetviz==2.1.4
+xgboost==1.6.2
